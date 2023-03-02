@@ -44,3 +44,29 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+React + Reduc + Typescript
+
+interface ke logic ke liye hm action krke file bnate hai,
+action-type defined krne ke liye bhi hm ek folder maintain krte hai
+reducers mai hmara logic rhta hai
+
+
+Typing action creators:
+importing the redux
+install Redux and create our very first store.
+npm install redux react-redux redux-thunk
+
+We also have to install their types as development dependencies to help TypeScript understand the libraries.
+npm install -D @types/redux @types/react-redux @types/redux-thunk
+
+Action Createor:
+
+three differnt creator => withdarw, deposite, bankcurput
+
+action creator
+
+Using Redux:
+click on the button call the redux creators.
+
+# react-redux-typescript
